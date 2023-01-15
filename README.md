@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tech with KingDOM
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on projects regarding Artificial intelligence
-- 📫 How to reach me? Check me on my YouTube Channel @ Tech with KingDOM
+- 👋 Hi, I’m Oluwaseyi
+- 👀 I’m a Python Developer.
+- 🌱 I’m currently learning Machine Learning and my goal is to become an AI Engineer 
+- 💞️ I’m always ready to learn.
+
 
 <!---
 kingDOM2227/kingDOM2227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
