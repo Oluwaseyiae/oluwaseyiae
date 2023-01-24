@@ -1,48 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abiola John Oluwaseyi
-=============================================================================================================================================
+<h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
+<h3 align="center">I am a Python Developer and a Data Scientist</h3>
 
-Python Developer
-----------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingdom2227&label=Profile%20views&color=0e75b6&style=flat" alt="kingdom2227" /> </p>
 
-I started python about 2 years ago without a specific direction but now, I am aspiring for AI Engineer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingdom2227" alt="kingdom2227" /></a> </p>
 
-*   🌍  I'm based in Nigeria.
-*   ✉️  You can contact me at [kdom2227@gmail.com](mailto:kdom2227@gmail.com )
-*   🧠  I'm learning Machine Learning.
-*   🤝  I'm open to collaborating on Python and Data Science Projects.
-*   ⚡  I'm a Computer Science Student at LAUTECH, Nigeria.<a href="https://www.github.com/kingDOM2227" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kingDOM2227?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/kingdom2203?t=vbeTYrNT4Sq1h21mZwqIqg&s=09" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/kingdom2203?t=vbeTYrNT4Sq1h21mZwqIqg&s=09?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+<p align="left"> <a href="https://twitter.com/kingdom2203" target="blank"><img src="https://img.shields.io/twitter/follow/kingdom2203?logo=twitter&style=for-the-badge" alt="kingdom2203" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Data Science**
+
+- 📫 How to reach me **kdom2227@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://twitter.com/kingdom2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdom2203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abio-john-oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abio-john-oluwaseyi" height="30" width="40" /></a>
 </p>
-      ###Buy me a coffee              
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kdom2227U" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>  
-     
-     ### Socials
-                  
 
-                <p align="left">
-                          
-                      <a href="https://www.github.com/kingDOM2227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/abiola-john-oluwaseyi-b65336234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/kingdom2203?t=vbeTYrNT4Sq1h21mZwqIqg&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/kingDOM2227"><img src="https://github-readme-stats.vercel.app/api?username=kingDOM2227&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kingDOM2227's GitHub stats" /></a><a
-                      href="http://www.github.com/kingDOM2227"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=kingDOM2227&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/kingDOM2227"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kingDOM2227&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/kingDOM2227" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingDOM2227&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kdom2227U"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kdom2227U" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdom2227&show_icons=true&locale=en&layout=compact" alt="kingdom2227" /></p>
 
-<!---
-kingDOM2227/kingDOM2227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdom2227&show_icons=true&locale=en" alt="kingdom2227" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingdom2227&" alt="kingdom2227" /></p>
