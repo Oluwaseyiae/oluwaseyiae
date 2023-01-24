@@ -10,7 +10,7 @@ I started python about 2 years ago without a specific direction but now, I am as
 *   ✉️  You can contact me at [kdom2227@gmail.com](mailto:kdom2227@gmail.com )
 *   🧠  I'm learning Machine Learning.
 *   🤝  I'm open to collaborating on Python and Data Science Projects.
-*   ⚡  I'm a Computer Science Student in LAUTECH, Nigeria.<a href="https://www.github.com/kingDOM2227" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm a Computer Science Student at LAUTECH, Nigeria.<a href="https://www.github.com/kingDOM2227" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/kingDOM2227?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/kingdom2203?t=vbeTYrNT4Sq1h21mZwqIqg&s=09" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kingdom2203?t=vbeTYrNT4Sq1h21mZwqIqg&s=09?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
