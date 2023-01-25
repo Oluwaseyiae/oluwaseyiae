@@ -26,10 +26,14 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kdom2227U"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kdom2227U" /></a></p><br><br>
-
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kdom2227U"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kdom2227U" /></a></p>
+<br>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdom2227&show_icons=true&locale=en&layout=compact" alt="kingdom2227" /></p>
-
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdom2227&show_icons=true&locale=en" alt="kingdom2227" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingdom2227&" alt="kingdom2227" /></p>
