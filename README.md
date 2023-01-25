@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://twitter.com/kingdom2203/header_photo" alt= "Banner" />
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
 <h3 align="center">I am a Python Developer and a Data Scientist</h3>
 
