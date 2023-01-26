@@ -1,4 +1,4 @@
-![Header](https://twitter.com/kingdom2203/header_photo)
+![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
 <h3 align="center">I am a Python Developer and Data Scientist</h3>
 <br>
