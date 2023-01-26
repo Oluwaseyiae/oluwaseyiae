@@ -3,7 +3,7 @@
 <h3 align="center">I am a Python Developer and Data Scientist</h3>
 <br>
 <br>
-<img align="center" alt="gif" width="600" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format= 750w" />
+<img align="center" alt="gif" width=600 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"/>
 <br>
 
 <br>
