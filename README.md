@@ -1,4 +1,4 @@
-[![MasterHead](https://twitter.com/kingdom2203/header_photo)](https://rishavchanda.io)
+![Header](https://twitter.com/kingdom2203/header_photo)
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
 <h3 align="center">I am a Python Developer and Data Scientist</h3>
 <br>
