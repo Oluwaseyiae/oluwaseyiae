@@ -31,7 +31,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kdom2227U"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kdom2227U" /></a></p>
+<a href="https://www.buymeacoffee.com/kdom2227U" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 <br>
 <br>
 <br>
