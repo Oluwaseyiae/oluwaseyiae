@@ -1,4 +1,4 @@
-![Header](banner.jpg)
+![Header](banner.jpeg)
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
 <h3 align="center">I am a Python Developer and Data Scientist</h3>
 <br>
