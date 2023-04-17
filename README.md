@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **kdom2227@gmail.com**
+- 📫 How to reach me **oluwaseyiae@gmail.com**
 - ⚡ Fun fact **My PC is my GF🤪🤪**
 
 <h3 align="left">Connect with me:</h3>
