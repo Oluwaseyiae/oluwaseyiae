@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python & Data Science**
+- 💬 Ask me about **Python, Machine Learning & Data Science**
 
 - 📫 How to reach me **oluwaseyiae@gmail.com**
 - ⚡ Fun fact **My PC is my GF🤪🤪**
