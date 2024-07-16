@@ -7,12 +7,12 @@
 <br>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingdom2227&label=Profile%20views&color=0e75b6&style=flat" alt="kingdom2227" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseyiae&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseyiae" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingdom2227" alt="kingdom2227" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwaseyiae" alt="oluwaseyiae" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kingdom2203" target="blank"><img src="https://img.shields.io/twitter/follow/kingdom2203?logo=twitter&style=for-the-badge" alt="kingdom2203" /></a> </p>
+<p align="left"> <a href="https://x.com/oluwaseyiae" target="blank"><img src="https://img.shields.io/twitter/follow/oluwaseyiae?logo=twitter&style=for-the-badge" alt="oluwaseyiae" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><a href="https://twitter.com/oluwaseyiae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdom2203" height="30" width="40" /></a><a href="https://linkedin.com/in/abiola-john-oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola-john-oluwaseyi" height="30" width="40" /></a><a href="https://kaggle.com/abiola john oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abiola john oluwaseyi" height="30" width="40" /></a><a href="https://youtube.com/channel/UCi_H7JjGDI3E_opg7pjujWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techwithkingdom" height="30" width="40" /></a></p>
+<p align="left"><a href="https://x.com/oluwaseyiae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdom2203" height="30" width="40" /></a><a href="https://linkedin.com/in/abiola-john-oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola-john-oluwaseyi" height="30" width="40" /></a><a href="https://kaggle.com/abiola john oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abiola john oluwaseyi" height="30" width="40" /></a><a href="https://youtube.com/channel/UCi_H7JjGDI3E_opg7pjujWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techwithkingdom" height="30" width="40" /></a></p>
 
 
 
@@ -38,13 +38,13 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdom2227&show_icons=true&locale=en&layout=compact" alt="kingdom2227" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluwaseyiae&show_icons=true&locale=en&layout=compact" alt="oluwaseyiae" /></p>
 <br>
 <br>
 
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdom2227&show_icons=true&locale=en" alt="kingdom2227" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwaseyiae&show_icons=true&locale=en" alt="oluwaseyiae" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingdom2227&" alt="kingdom2227" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwaseyiae&" alt="oluwaseyiae" /></p>
