@@ -1,6 +1,6 @@
 ![Header](banner.jpeg)
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
-<h3 align="center">I am a Python Developer and Data Scientist</h3>
+<h3 align="center">I am a Machine Learning Engineer</h3>
 <br>
 <br>
 <img align="center" alt="gif" width=600 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"/>
@@ -19,7 +19,7 @@
 - 💬 Ask me about **Python, Machine Learning & Data Science**
 
 - 📫 How to reach me **oluwaseyiae@gmail.com**
-- ⚡ Fun fact **My PC is my GF🤪🤪**
+- ⚡ Fun fact **I am an AI Enginner in the making**
 
 <h3 align="left">Connect with me:</h3>
 
