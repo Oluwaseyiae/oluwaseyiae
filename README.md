@@ -23,12 +23,17 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><a href="https://x.com/oluwaseyipd" target="blank"><img align="center" src="icons/x.svg" alt="kingdom2203" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/abiola-john-oluwaseyi-b65336234" target="blank"><img align="center" src="icons/linkedin.svg" alt="abiola-john-oluwaseyi" height="30" width="40" /></a>
-
-<a href="https://www.kaggle.com/abiolajohnoluwaseyi" target="blank"><img align="center" src="icons/kaggle.svg" alt="abiola john oluwaseyi" height="30" width="40" /></a></p>
-
+<p align="left">
+  <a href="https://x.com/oluwaseyipd" target="_blank">
+    <img align="center" src="icons/x.svg" alt="kingdom2203" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abiola-john-oluwaseyi-b65336234" target="_blank">
+    <img align="center" src="icons/linkedin.svg" alt="abiola-john-oluwaseyi" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/abiolajohnoluwaseyi" target="_blank">
+    <img align="center" src="icons/kaggle.svg" alt="abiola john oluwaseyi" height="30" width="40" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
