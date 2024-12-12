@@ -3,6 +3,13 @@
 <h3 align="center">I am a Machine Learning Engineer</h3>
 <br>
 
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Python, Machine Learning & Data Science**
+
+- 📫 How to reach me **oluwaseyiae@gmail.com**
+- ⚡ Fun fact **I am an AI Enginner in the making**
+
 <img style="display: block; margin: auto;" alt="gif" width="1400" src="machine-learning.gif"/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseyiae&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseyiae" /> </p>
@@ -10,13 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwaseyiae" alt="oluwaseyiae" /></a> </p>
 
 <p align="left"> <a href="https://x.com/oluwaseyiae" target="blank"><img src="https://img.shields.io/twitter/follow/oluwaseyiae?logo=twitter&style=for-the-badge" alt="oluwaseyiae" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Python, Machine Learning & Data Science**
-
-- 📫 How to reach me **oluwaseyiae@gmail.com**
-- ⚡ Fun fact **I am an AI Enginner in the making**
 
 <h3 align="left">Connect with me:</h3>
 
