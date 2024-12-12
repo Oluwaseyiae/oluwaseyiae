@@ -23,6 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+    <a href="https://oluwaseyiae.github.io/abiolajohnoluwaseyi.github.io/index.html" target="_blank">
+    <img align="center" src="icons/globe.png" alt="kingdom2203" height="30" width="40" />
+  </a>
   <a href="https://x.com/oluwaseyipd" target="_blank">
     <img align="center" src="icons/x.svg" alt="kingdom2203" height="30" width="40" />
   </a>
