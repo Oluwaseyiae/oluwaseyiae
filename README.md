@@ -10,7 +10,6 @@
 - 📫 How to reach me **oluwaseyiae@gmail.com**
 - ⚡ Fun fact **I am an AI Enginner in the making**
 
-<img style="display: block; margin: auto;" alt="gif" width="1400" src="machine-learning.gif"/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseyiae&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseyiae" /> </p>
 
