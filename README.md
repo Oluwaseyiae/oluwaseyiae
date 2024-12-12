@@ -3,7 +3,7 @@
 <h3 align="center">I am a Machine Learning Engineer</h3>
 <br>
 <br>
-<img align="center" alt="gif" width=600 src="machine-learning.gif"/>
+<img style="display: block; margin: auto;" alt="gif" width="600" src="machine-learning.gif"/>
 <br>
 
 <br>
